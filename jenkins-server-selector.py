@@ -9,7 +9,7 @@ import jenkins
 import json
 
 
-class ServerName:
+class Jenkins_Server_Selector:
 
 
         def __init__(self, serverAddress, jobPipelineName):
